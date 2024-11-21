@@ -73,7 +73,7 @@ Usage:
 
 ## BUILDING
 ``` 
-  apt install build-essential (debian)
+  apt install build-essential cmake (debian)
   mkdir build
   cd build
   cmake ..
